@@ -1,0 +1,601 @@
+[API Trapper      (25a0:26c8)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      (1814:1f9c)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (2294:12b0)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (2294:1dc8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2294:1dc8)] Load Network Traffic Analyzers:
+[Network Analyzer (2294:1dc8)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2294:1dc8)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (2294:1dc8)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2294:1dc8)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (2294:1dc8)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (2294:1dc8)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2294:1dc8)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2294:1dc8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2294:1d78)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1dc8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1dc8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT github.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid:  1) Client -> Server @ : 210 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  1) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1178)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2294:1178)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1b60)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1b60)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2294:1b60)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1b60)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2294:1d78)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (2294:1b60)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1b60)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2294:1dc8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1dc8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT github.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid:  5) Client -> Server @ : 210 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Server -> Client : 39 bytes 
+[Network Analyzer (2294: 644)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294: 644)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      (2294:1d78)] "GET /integrations?page=2"   
+[Network Analyzer (2294:1d78)]   (Sid:  5) Client -> Server @ : 272 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Server -> Client : 1370 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Server -> Client : 714 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Server -> Client : 1370 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Server -> Client : 1370 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Server -> Client : 1370 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Server -> Client : 1370 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Server -> Client : 1370 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Server -> Client : 1370 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Server -> Client : 1370 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Server -> Client : 1370 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Server -> Client : 1286 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1dc8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1b60)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294: 3d0)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1dc8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2294:26e8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1148)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:2574)] Address lookup for R8P9AAP = 172.16.1.189
+[Web Request      (2294:1d78)] "CONNECT assets-cdn.github.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid:  6) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2294: 3d0)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT assets-cdn.github.com:443"   
+[Network Analyzer (2294:1620)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1d78)]   (Sid:  7) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2294:1b60)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  8)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT assets-cdn.github.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid:  8) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2294:142c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:26e8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  9)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid:  9) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:2668)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:2574)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 10)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT assets-cdn.github.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 10) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2294:1148)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 11)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT assets-cdn.github.com:443"   
+[Network Analyzer (2294:261c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1d78)]   (Sid: 11) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2294:1620)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars3.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 12) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:142c)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 13)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 13) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:2668)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (2294: 3d0)] Address lookup for R8P9AAP = 172.16.1.189
+[Web Request      (2294:1d78)] "CONNECT avatars3.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 14) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1dc8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1d78)]   (Sid:  6) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid:  7) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid:  8) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 10) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 11) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid:  9) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 12) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 13) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 14) Server -> Client : 39 bytes 
+[Network Analyzer (2294:261c)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 15) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1dc8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars0.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 16) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294: 3d0)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 17)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars1.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 17) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 15) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 16) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 17) Server -> Client : 39 bytes 
+[Network Analyzer (2294: a44)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2294:1148)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1148)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 18)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT urs.microsoft.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 18) Client -> Server @ : 172 bytes (Service=HTTP)
+[Network Analyzer (2294:1fc4)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294: a44)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294: aa4)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1fc4)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1d78)]   (Sid: 18) Server -> Client : 39 bytes 
+[Network Analyzer (2294: aa4)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1878)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1620)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1878)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1250)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2294:1620)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (2294:1250)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:276c)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:276c)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:24ec)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:278c)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2294:24ec)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1d78)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (2294:278c)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1ea0)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1ea0)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:19f0)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:19f0)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:2480)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:2480)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:24ac)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:24ac)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294: c38)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (2294: c38)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1f44)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1f44)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (1814:18ec)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1814:18ec)] Load Network Traffic Analyzers:
+[Network Analyzer (1814:18ec)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1814:18ec)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1814:18ec)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1814:18ec)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1814:18ec)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1814:18ec)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1814:18ec)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1814:18ec)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1814:1e9c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (1814:21c4)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (1814:18ec)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (1814:21c4)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1814:18ec)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      (1814:1e9c)] "CONNECT iecvlist.microsoft.com:443"   
+[Network Analyzer (1814:1e9c)]   (Sid:  1) Client -> Server @ : 243 bytes (Service=HTTP)
+[Web Request      (1814:1e9c)] "CONNECT iecvlist.microsoft.com:443"   
+[Network Analyzer (1814:1e9c)]   (Sid:  2) Client -> Server @ : 156 bytes (Service=HTTP)
+[Network Analyzer (1814:1e9c)]   (Sid:  1) Server -> Client : 39 bytes 
+[Network Analyzer (1814:1e9c)]   (Sid:  2) Server -> Client : 39 bytes 
+[Network Analyzer (1814: c34)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (1814: c34)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (1814: b7c)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1814: b7c)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (1814:2290)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (1814:2290)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2294:1d78)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (2294:1f44)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1f50)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1f44)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 21)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT assets-cdn.github.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 21) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2294:1f50)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 22)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT assets-cdn.github.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 22) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 21) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 22) Server -> Client : 39 bytes 
+[Network Analyzer (2294:2344)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:2344)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1ab4)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1ab4)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1158)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1158)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (2294:1158)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:20f4)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1158)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 24)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars0.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 24) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:20f4)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 25)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars3.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 25) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 24) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 25) Server -> Client : 39 bytes 
+[Network Analyzer (2294:23d0)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:23d0)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:2770)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:2770)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:234c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:13d4)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:234c)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 26)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 26) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:13d4)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 27)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars3.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 27) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 26) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 27) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1e88)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1e88)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:13d4)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:13d4)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (2294:237c)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:237c)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:274c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:274c)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (2294:274c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:262c)] Address lookup for R8P9AAP = 172.16.1.189
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 29) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:262c)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 30)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars0.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 30) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:274c)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 31)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 31) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 29) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 30) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 31) Server -> Client : 39 bytes 
+[Network Analyzer (2294:10a4)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:10a4)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294: fd8)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:2744)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294: fd8)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:2744)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:233c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:20ec)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:233c)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 32)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars1.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 32) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:20ec)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 33)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars1.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 33) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 32) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 33) Server -> Client : 39 bytes 
+[Network Analyzer (2294:2748)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:2748)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1874)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1874)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:2370)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:2370)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (1814:2758)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (1814:2758)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars0.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 34) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 34) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1088)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1088)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1bf8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1bf8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (2294:1bf8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1bf8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (2294:1d78)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (2294:234c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1fa8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1a20)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:234c)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 37)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 37) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:261c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1fa8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 38)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars0.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 38) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1a20)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 39)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 39) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 37) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 38) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 39) Server -> Client : 39 bytes 
+[Network Analyzer (2294:261c)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 40)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars0.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 40) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 40) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1140)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294: d4c)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1140)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1fa8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1fa8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 41)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars3.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 41) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294: f3c)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294: d4c)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1d78)]   (Sid: 41) Server -> Client : 39 bytes 
+[Network Analyzer (2294:261c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294: f3c)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1d38)]   (Sid: 40) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1d38)]   (Sid: 40) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294: fa4)]   (Sid: 41) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2294: fa4)]   (Sid: 41) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (1814:2290)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (1814:2290)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (2294:1fa8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1fa8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 42)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 42) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 42) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1ec4)]   (Sid: 42) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1ec4)]   (Sid: 42) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1fa8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1f50)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1fa8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 43)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 43) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1f50)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 44)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT assets-cdn.github.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 44) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 43) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 44) Server -> Client : 39 bytes 
+[Network Analyzer (2294:270c)]   (Sid: 43) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294: e44)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:270c)]   (Sid: 43) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294: e44)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (1814:18ec)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (1814:18ec)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid=  6)  PROXIED!
+[Web Request      (1814:1e9c)] "CONNECT iecvlist.microsoft.com:443"   
+[Network Analyzer (1814:1e9c)]   (Sid:  6) Client -> Server @ : 243 bytes (Service=HTTP)
+[Network Analyzer (1814:1e9c)]   (Sid:  6) Server -> Client : 39 bytes 
+[Network Analyzer (1814: c3c)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (1814: c3c)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      (1814:1e9c)] "GET /IE11/1479242656000/iecompatviewlist.xml"   
+[Network Analyzer (1814:1e9c)]   (Sid:  6) Client -> Server @ : 914 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2294:1fa8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1c7c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (1814:1e9c)]   (Sid:  6) Server -> Client : 467 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1fa8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 45)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars1.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 45) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1c7c)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 46)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT iecvlist.microsoft.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 46) Client -> Server @ : 156 bytes (Service=HTTP)
+[Network Analyzer (1814:1e9c)]   (Sid:  6) Server -> Client : 16383 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1814:1e9c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1814:1e9c)]   (Sid:  6) Server -> Client : 16383 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 45) Server -> Client : 39 bytes 
+[Network Analyzer (1814:1e9c)]   (Sid:  6) Server -> Client : 1942 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 46) Server -> Client : 39 bytes 
+[Network Analyzer (2294: 360)]   (Sid: 45) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294: 360)]   (Sid: 45) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1d98)]   (Sid: 46) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1814:1e9c)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (1814:1e9c)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (2294:1d98)]   (Sid: 46) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1fa8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1fa8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer (2294:1f50)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1f50)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 48)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT assets-cdn.github.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 48) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 39 bytes 
+[Network Analyzer (2294:14f8)]   (Sid: 48) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:14f8)]   (Sid: 48) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      (2294:1d78)] "GET /assets/github-64951a579f72746470cd6d8d29a3170eb697f3b1e3a7472c5787af321ad3cfc9.css"   
+[Network Analyzer (2294:1d78)]   (Sid: 48) Client -> Server @ : 577 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 2589 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 2589 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (2294:1d78)]   (Sid: 48) Server -> Client : 14471 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1f50)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1f50)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 49)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT assets-cdn.github.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 49) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 49) Server -> Client : 39 bytes 
+[Network Analyzer (2294:2754)]   (Sid: 49) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:2754)]   (Sid: 49) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      (2294:1d78)] "GET /assets/site-7d9c6bd23286465361abfa183deb8a05eabb77438ab42033e8230c0c0768d539.css"   
+[Network Analyzer (2294:1d78)]   (Sid: 49) Client -> Server @ : 575 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 49) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 49) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 49) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 49) Server -> Client : 899 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1fa8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1fa8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 50)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars3.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 50) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 50) Server -> Client : 39 bytes 
+[Network Analyzer (2294: 528)]   (Sid: 50) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294: 528)]   (Sid: 50) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      (2294:1d78)] "GET /oa/196006?v=3&u=ddd5032742942cee507bfb7b4651e46a49306024&s=128"   
+[Network Analyzer (2294:1d78)]   (Sid: 50) Client -> Server @ : 378 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 50) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 50) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 50) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 50) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 50) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 50) Server -> Client : 2589 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 50) Server -> Client : 2323 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1fa8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:21ac)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1fa8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 51)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 51) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:21ac)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 52)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 52) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 51) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 52) Server -> Client : 39 bytes 
+[Network Analyzer (2294:2440)]   (Sid: 51) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:11f0)]   (Sid: 52) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:2440)]   (Sid: 51) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      (2294:1d78)] "GET /oa/138476?v=3&u=cb552a5d98c822ceaa839c8f5e44aeb655103d6d&s=128"   
+[Network Analyzer (2294:1d78)]   (Sid: 51) Client -> Server @ : 378 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 51) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 51) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 51) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 51) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 51) Server -> Client : 66 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:11f0)]   (Sid: 52) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      (2294:1d78)] "GET /oa/247117?v=3&u=d5345dc6a476afe6d2843f810c5e3708091f019f&s=128"   
+[Network Analyzer (2294:1d78)]   (Sid: 52) Client -> Server @ : 378 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 52) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 52) Server -> Client : 489 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1fa8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1fa8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 53)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT assets-cdn.github.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 53) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 53) Server -> Client : 39 bytes 
+[Network Analyzer (2294:264c)]   (Sid: 53) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:264c)]   (Sid: 53) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      (2294:1d78)] "GET /images/modules/integrations/integrations-directory-graphic.svg?v=1"   
+[Network Analyzer (2294:1d78)]   (Sid: 53) Client -> Server @ : 598 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 53) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 53) Server -> Client : 2318 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1fa8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1d78)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (2294:2370)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1b60)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:20ec)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:24c8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:26e8)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:2370)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 54)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars3.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 54) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1b60)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 55)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294: 3d0)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1d78)]   (Sid: 55) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:24c8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 56)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars0.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 56) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:20ec)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 57)  PROXIED!
+[Network Analyzer (2294:13d4)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1f44)] Address lookup for R8P9AAP = 172.16.1.189
+[Web Request      (2294:1d78)] "CONNECT avatars1.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 57) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:26e8)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 58)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars1.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 58) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294: 3d0)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 59)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars3.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 59) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 54) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 55) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 56) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 57) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 58) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 59) Server -> Client : 39 bytes 
+[Network Analyzer (2294:13d4)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 60)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 60) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1f44)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 61)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars3.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 61) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 60) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 61) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1ccc)]   (Sid: 54) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1f44)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:13d4)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:129c)]   (Sid: 55) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1f44)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 62)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars0.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 62) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1ccc)]   (Sid: 54) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:13d4)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 63)  PROXIED!
+[Network Analyzer (2294:1d78)]   (Sid: 62) Server -> Client : 39 bytes 
+[Network Analyzer (2294:25ac)]   (Sid: 56) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Web Request      (2294:1d78)] "CONNECT avatars1.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 63) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 63) Server -> Client : 39 bytes 
+[Network Analyzer (2294:129c)]   (Sid: 55) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:2008)]   (Sid: 57) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:25ac)]   (Sid: 56) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1d08)]   (Sid: 58) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:2008)]   (Sid: 57) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1d78)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer (2294:261c)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 64)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars1.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 64) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer (2294:2684)]   (Sid: 59) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1d08)]   (Sid: 58) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1d78)]   (Sid: 64) Server -> Client : 39 bytes 
+[Network Analyzer (2294:234c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:13cc)]   (Sid: 60) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:2684)]   (Sid: 59) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1d78)]   (Sid: 40) Connection Terminated (by Client)
+[Network Analyzer (2294:233c)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:217c)]   (Sid: 61) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:233c)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 65)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars1.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 65) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 41) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 65) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1fd8)]   (Sid: 62) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:13cc)]   (Sid: 60) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1158)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:217c)]   (Sid: 61) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1158)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 66)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 66) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 66) Server -> Client : 39 bytes 
+[Network Analyzer (2294:2488)]   (Sid: 63) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1fd8)]   (Sid: 62) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      (2294:1d78)] "GET /oa/408670?v=3&u=172b06cf7f77e4ec0a094609b069dd34de31b361&s=128"   
+[Network Analyzer (2294:1d78)]   (Sid: 62) Client -> Server @ : 378 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 62) Server -> Client : 2759 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 62) Server -> Client : 1500 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:2148)]   (Sid: 64) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:2488)]   (Sid: 63) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      (2294:1d78)] "GET /oa/194564?v=3&u=adb8c827b4a0c02c998426d9b99040916c67a202&s=128"   
+[Network Analyzer (2294:1d78)]   (Sid: 63) Client -> Server @ : 378 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2294:2690)]   (Sid: 65) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:1d78)]   (Sid: 63) Server -> Client : 2107 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2294:2148)]   (Sid: 64) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1e6c)]   (Sid: 66) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:13d4)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:2690)]   (Sid: 65) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1e6c)]   (Sid: 66) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1d78)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 42) Connection Terminated (by Client)
+[Network Analyzer (2294:1148)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1148)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 67)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars3.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 67) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 67) Server -> Client : 39 bytes 
+[Network Analyzer (2294:25b8)]   (Sid: 67) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:25b8)]   (Sid: 67) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2294:1d78)]   (Sid: 43) Connection Terminated (by Client)
+[Network Analyzer (2294:1d78)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer (2294:1158)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:20ec)] Address lookup for R8P9AAP = 172.16.1.189
+[Network Analyzer (2294:1158)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 68)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT avatars2.githubusercontent.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 68) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (2294:20ec)] Request Connection: Remote Server @ 10.1.11.97:8080   (Service=)  (Sid= 69)  PROXIED!
+[Web Request      (2294:1d78)] "CONNECT assets-cdn.github.com:443"   
+[Network Analyzer (2294:1d78)]   (Sid: 69) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (2294:1d78)]   (Sid: 68) Server -> Client : 39 bytes 
+[Network Analyzer (2294:1d78)]   (Sid: 69) Server -> Client : 39 bytes 
+[Network Analyzer (2294:2468)]   (Sid: 68) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2294:11d8)]   (Sid: 69) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
